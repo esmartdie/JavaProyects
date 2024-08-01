@@ -14,11 +14,6 @@ This index will help you find different projects more easily:
     * *Stack:* Java, Spring, Hibernate, JUnit, Thymeleef
 
 
-
-## 👷🏼‍♂️ Interview Test: 
-
-- **[Automation QA Interview][2]:** Real interview Test for a QA & Dev process for Inditex Group. 
-
 ## ✏️ Code Challenges:
 
 - The **[repository][4]** contains the solutions for the Dev Challenges publish by [Mouredev][3] in 2022.
