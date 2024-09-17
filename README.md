@@ -3,6 +3,9 @@
 This index will help you find different projects more easily:
 
 ## ⚙️ Proyects: 
+ - **[BookNetwork Overview](https://github.com/esmartdie/BookNetwork)**
+ BookNetwork is a platform enabling users to explore, manage, and interact with book-related data. The front-end is built with TypeScript, while the back-end uses Java for robust API-driven services. The project emphasizes modularity, scalability, and ease of deployment using Docker. It’s  designed with microservices architecture, supporting seamless user interaction with books and profiles.
+   * *Stack:* Java, Spring, Hibernate, Docker, Angular, Typesrcipt, Thymeleaf, Keycloak (on dedicated branch)
 
  - **[EsmartCafeteria][5]:** EsmartCafeteria is an application designed to improve reservation management in modern cafeterias, optimizing customer experience and operational efficiency. It includes a robust API that supports role distribution across three user profiles and is documented using Notion.
     * *Stack:* Java, Spring, Hibernate, JUnit, Mockito, RestAssured
