@@ -16,6 +16,16 @@ This index will help you find different projects more easily:
     * User registry form
     * *Stack:* Java, Spring, Hibernate, JUnit, Thymeleef
 
+## 🤖 Hackaton: 
+**[CaixaBank Java Backend 2024](https://github.com/esmartdie/Hackaton-caixabank-backend-java-dic24)**  is a Java-based backend application developed for a CaixaBank Tech hackathon. Its primary objective is to design the backend infrastructure for a new extension of the CaixaBankNow and Imagin applications, enabling clients to efficiently manage transactions with a focus on stock market activities and automated trading.
+
+Key Features:
+- User Management: Implements functionalities for user registration, login, password reset via OTP, and secure PIN creation and management for transaction authorization.
+- Account Transactions: Supports essential financial operations, including deposits, withdrawals, fund transfers, and comprehensive transaction history retrieval.
+- Market Operations: Provides capabilities for real-time asset trading, allowing users to buy and sell stocks, view current market prices, and calculate net worth.
+- Security Measures: Incorporates JWT-based authentication, PIN verification for sensitive transactions, and robust error handling to ensure secure and reliable operations.
+- Docker Integration: Configured with a Dockerfile and docker-compose setup to facilitate containerized deployment and testing.
+- This project reflects a comprehensive approach to building a secure and efficient backend system for modern banking applications, aligning with industry standards and best practices.
 
 ## ✏️ Code Challenges:
 
